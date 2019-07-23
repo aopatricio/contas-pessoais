@@ -9,7 +9,7 @@
     <meta name="author" content="Cesar Szpak">
     <link rel="icon" href="img/favicon.ico">
 
-    <title>Contas Pessoais v1.32.2 - Login</title>
+    <title>Contas Pessoais v1.32.3 - Login</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css-login/bootstrap.css" rel="stylesheet">
